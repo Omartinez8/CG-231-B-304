@@ -52,7 +52,7 @@ var controls = new THREE.OrbitControls(camera, renderer.domElement);
 
 //--------------------------------------------------------------------
 //VALORES PARA PODER MODIFICAR EL TRONCO DE PIRAMIDE                 -
-var nl = 4; // NUMERO DE LADOS                                       -
+var nl = 5; // NUMERO DE LADOS                                       -
 var a = 3; // APOTEMA                                                -
 var e = -50 //ESCALADO                                               -
 var h = 3; // ALTURA DE LA PIRAMIDE                                  -
